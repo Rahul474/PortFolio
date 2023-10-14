@@ -34,7 +34,7 @@ function Footer({}: Props) {
             <li className='pointer'>
               <Link
                 href={
-                  'https://drive.google.com/file/d/1lE5z2n6nEHmCQnSOt31L4KrraIr1BRel/view?usp=drive_link'
+                  'https://drive.google.com/file/d/1PyMyhCw7SUBsHvYTpWICd47WJLnkT04Q/view'
                 }
                 target='_blank'
               >
