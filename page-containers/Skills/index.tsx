@@ -27,7 +27,8 @@ function Skills({}: Props) {
           transition={{
             duration: 1,
           }}
-          className='grid grid-cols-4 lg:grid-cols-5 gap-4'
+          className='grid grid-cols-3 lg:grid-cols-5 gap-4'
+          style={{marginTop:'50px'}}
         >
           {skills.slice(0, skills.length / 2).map((skill, index) => (
             <SkillIcon
